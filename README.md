@@ -1,4 +1,4 @@
-![logo](https://github.com/SugamChaudharry/SugamChaudharry/blob/main/www.reallygreatsite.com.png)
+![logo](https://github.com/sachinr69/sachinr69/blob/main/www.reallygreatsite.com.png)
 
 <div align="center"> 
   
@@ -6,7 +6,8 @@
   
 </div>
 
-<img align = "right" alt = "coding" width = "400" src = "https://github.com/sachinr69/sachinr69/assets/139050927/a875eb2a-ad6a-453f-b2cc-7b2be2eae8c7.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://github.com/SugamChaudharry/SugamChaudharry/assets/139050927/a875eb2a-ad6a-453f-b2cc-7b2be2eae8c7.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar" /> </p>
