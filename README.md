@@ -22,7 +22,7 @@
 - 👨‍💻 All of my socials are available at [bio.link](https://bio.link/nextgena)
 <br />
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugamchaudharry&show_icons=true&locale=en&layout=compact" alt="sugamchaudharry" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinr69&show_icons=true&locale=en&layout=compact" alt="sachinr69" /></p>
 
 [![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=sachinr69&show_icons=true&theme=dracula)](https://github.com/SugamChaudharry/github-readme-stats)
 <br />
