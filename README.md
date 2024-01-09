@@ -6,11 +6,11 @@
   
 </div>
 
-<img align = "right" alt = "coding" width = "400" src = "https://github.com/SugamChaudharry/SugamChaudharry/assets/139050927/a875eb2a-ad6a-453f-b2cc-7b2be2eae8c7.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://github.com/sachinr69/sachinr69/assets/139050927/a875eb2a-ad6a-453f-b2cc-7b2be2eae8c7.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugamchaudharry&label=Profile%20views&color=0e75b6&style=flat" alt="sugamchaudharry" /> </p>
-<p align="left"> <a href="https://twitter.com/sugamchaudharry" target="blank"><img src="https://img.shields.io/twitter/follow/sugamchaudharry?logo=twitter&style=for-the-badge" alt="sugamchaudharry" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar" /> </p>
+<p align="left"> <a href="https://twitter.com/sachinkumar" target="blank"><img src="https://img.shields.io/twitter/follow/sachinkumar?logo=twitter&style=for-the-badge" alt="sachinkumar" /></a> </p>
 
   - 🔭 I’m currently working on Web Development
   - 🌱 I’m currently learning the backend
@@ -24,7 +24,7 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinr69&show_icons=true&locale=en&layout=compact" alt="sachinr69" /></p>
 
-[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=sachinr69&show_icons=true&theme=dracula)](https://github.com/SugamChaudharry/github-readme-stats)
+[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=sachinr69&show_icons=true&theme=dracula)](https://github.com/sachinr69/github-readme-stats)
 <br />
 
 |               |           |
