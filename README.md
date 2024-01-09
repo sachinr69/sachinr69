@@ -14,7 +14,7 @@
 
   - 🔭 I’m currently working on Web Development
   - 🌱 I’m currently learning the backend
-  - 📫 How to reach me: through [linkedin](https://www.linkedin.com/in/sugam-chaudhary-400535235/)
+  - 📫 How to reach me: through [linkedin](https://www.linkedin.com/in/sachin-nayak-a3295a228/)
   - 😄 Pronouns: He/him.
   - ⚡ Fun fact: I am still a newbie😄.
 
@@ -24,7 +24,7 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sugamchaudharry&show_icons=true&locale=en&layout=compact" alt="sugamchaudharry" /></p>
 
-[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=SugamChaudharry&show_icons=true&theme=dracula)](https://github.com/SugamChaudharry/github-readme-stats)
+[![Pedro Machado's Github States](https://github-readme-stats.vercel.app/api?username=sachinr69&show_icons=true&theme=dracula)](https://github.com/SugamChaudharry/github-readme-stats)
 <br />
 
 |               |           |
