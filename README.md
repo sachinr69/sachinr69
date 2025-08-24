@@ -6,8 +6,6 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react" alt="React, TailwindCSS, Vercel">
   </a>
 </p>
-
-<br><br>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
